@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235400221307",
+    "project_id": "pushtest-bed08",
+    "storage_bucket": "pushtest-bed08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235400221307:android:e58cb09fd1c70507b448de",
+        "android_client_info": {
+          "package_name": "com.example.pushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235400221307-lkepgmlnhogqqfnr2gpl95u1ifo3gk9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9fJe5zXn9TTF76tx2o-g87B2XxfFLW0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235400221307-lkepgmlnhogqqfnr2gpl95u1ifo3gk9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
